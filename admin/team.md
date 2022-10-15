@@ -25,9 +25,9 @@
 - ### Raon Choi: [Role]
   > (Brief Overview)  
   > - Personal Github Page: 
-- ### Sameer Jain: [Role]
-  > (Brief Overview)  
-  > - Personal Github Page: 
+- ### Sameer Jain: Team Member
+  > I am a third year computer science major and intend to become a software engineer. 
+  > - Personal Github Page: https://github.com/anonsameer
 - ### Sohil Nadarajan: [Role]
   > (Brief Overview)  
   > - Personal Github Page: 
